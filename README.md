@@ -3,7 +3,7 @@
 ---
 
 ## 20th solution for the "Open Problems – Single-Cell Perturbations" Kaggle competition.
-### Authors: Antoine Passiemier and Jalil Nourisa
+### Authors: Antoine Passemiers and Jalil Nourisa
 
 - **Data exploration, model design, and robustness analysis**: op2-de-dl.ipynb
 - **Multiomics data analysis and integration**: process_multiomics.ipynb
